@@ -1,0 +1,29 @@
+
+epoch: 5
+batchsize: 128
+
+
+
+use poly:
+Epoch 5: Loss: 0.011631, Accuracy: 97.301667%
+Accuracy: 97.790000%
+
+Epoch 5: Loss: 0.011610, Accuracy: 97.575000%
+time:  121.97271800041199
+Accuracy: 98.170000%
+
+
+not use poly:
+Epoch 5: Loss: 0.011549, Accuracy: 98.358333%
+Accuracy: 98.650000%
+
+Epoch 5: Loss: 0.011532, Accuracy: 98.583333%
+time:  55.983771324157715
+Accuracy: 98.680000%
+
+
+pre_poly:
+Epoch 5: Loss: 0.011533, Accuracy: 98.573333%
+time:  56.43730020523071
+Accuracy: 94.740000%
+Accuracy: 98.580000%
